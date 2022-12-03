@@ -1,7 +1,7 @@
 /* PC */
 @media (min-width: 1024px) {
     .header__navbar-mobile {
-        display: none;   
+        display: none;
     }
 }
 
@@ -12,7 +12,7 @@
     }
 
     .header__search {
-        width: 550px;
+        width: 565px;
     }
 
     .slick-slide__discovery {
